@@ -1,0 +1,24 @@
+* {
+	color: darkgreen;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+	margin: 50px;
+	font-size: 60px;
+    float: left;
+}
+
+p.reset {
+  font-size: 30px;
+  clear: both;
+  text-align: center;
+}
+
+.new-line {
+	clear: both;
+}
+
